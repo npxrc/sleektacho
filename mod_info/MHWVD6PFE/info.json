@@ -1,0 +1,149 @@
+{
+    "attachments": [
+        {
+            "data_filename": "929674.png",
+            "original_filename": "tacho-3.png",
+            "thumb_filename": "thumbs\/929674.jpg"
+        },
+        {
+            "data_filename": "929675.png",
+            "original_filename": "tacho-2.png",
+            "thumb_filename": "thumbs\/929675.jpg"
+        },
+        {
+            "data_filename": "929676.png",
+            "original_filename": "tacho-4.png",
+            "thumb_filename": "thumbs\/929676.jpg"
+        }
+    ],
+    "resource_id": 23222,
+    "current_version_id": 42166,
+    "download_count": 0,
+    "resource_version_id": 43380,
+    "version_string": "1.4",
+    "last_update": 1666165776,
+    "rating_avg": 4.9,
+    "rating_count": 0,
+    "rating_sum": 0,
+    "resource_category_id": 10,
+    "resource_date": 1657785546,
+    "review_count": 11,
+    "tag_line": "A sleek, yet racing focused tachometer!",
+    "update_count": 3,
+    "path": "MHWVD6PFE\/42166\/",
+    "filename": "tabbyzTacho.zip",
+    "title": "SlTach",
+    "user_id": 446097,
+    "username": "Tabbyz",
+    "tagid": "MHWVD6PFE",
+    "message": "",
+    "category_title": "",
+    "prefix_title": "",
+    "via": "packed by repo on Wed, 21 Dec 2022 23:01:08 GMT",
+    "hashes": [
+        [
+            "lua\/vehicle\/extensions\/auto\/sendDriveModeToUI.lua",
+            "f66ec863d5040768"
+        ],
+        [
+            "ui\/common\/TabbyzTacho\/icons\/leftIndicator.svg",
+            "8d5967fa1a70aa2b"
+        ],
+        [
+            "ui\/common\/TabbyzTacho\/icons\/highBeam.svg",
+            "a990cff9692c7732"
+        ],
+        [
+            "ui\/common\/TabbyzTacho\/icons\/rightIndicator.svg",
+            "a70246449be454e9"
+        ],
+        [
+            "ui\/common\/TabbyzTacho\/icons\/pBrake.svg",
+            "c5a6c4b50daf5f9f"
+        ],
+        [
+            "ui\/common\/TabbyzTacho\/icons\/lowBeam.svg",
+            "ac22477472b3a000"
+        ],
+        [
+            "ui\/common\/TabbyzTacho\/fonts\/Roboto-Bold.ttf",
+            "c36a3fe042b96dc3"
+        ],
+        [
+            "ui\/common\/TabbyzTacho\/fonts\/LICENSE.txt",
+            "fd24725bf5d68f4f"
+        ],
+        [
+            "ui\/common\/TabbyzTacho\/fonts\/Roboto-Medium.ttf",
+            "9204c2aa0a88c808"
+        ],
+        [
+            "ui\/common\/TabbyzTacho\/fonts\/Roboto-Regular.ttf",
+            "d0bc87a819730d23"
+        ],
+        [
+            "ui\/common\/TabbyzTacho\/library.js",
+            "765bbabb5cc54c32"
+        ],
+        [
+            "ui\/modules\/apps\/tabbyzTacho\/app.js",
+            "83fcc59bbccd7d81"
+        ],
+        [
+            "ui\/modules\/apps\/tabbyzTacho\/app.png",
+            "bf22b551425be110"
+        ],
+        [
+            "ui\/modules\/apps\/tabbyzTacho\/svg-script.js",
+            "da8badd73c1da9da"
+        ],
+        [
+            "ui\/modules\/apps\/tabbyzTacho\/app.json",
+            "920f8e4af9ce8c68"
+        ],
+        [
+            "ui\/modules\/apps\/tabbyzTacho\/tacho.svg",
+            "98639893242aa55e"
+        ],
+        [
+            "ui\/modules\/apps\/tabbyzForcedInduction\/app.svg",
+            "e0d4aeec5ba36127"
+        ],
+        [
+            "ui\/modules\/apps\/tabbyzForcedInduction\/app.js",
+            "8a7ada87dfc5c433"
+        ],
+        [
+            "ui\/modules\/apps\/tabbyzForcedInduction\/app.png",
+            "2e5cf65a8a08dd45"
+        ],
+        [
+            "ui\/modules\/apps\/tabbyzForcedInduction\/svg-script.js",
+            "fc4a14d7a1c99311"
+        ],
+        [
+            "ui\/modules\/apps\/tabbyzForcedInduction\/app.json",
+            "0b552c27b98bcdc0"
+        ],
+        [
+            "ui\/modules\/apps\/tabbyzTachoWTemp\/app.js",
+            "dc361bf6b7300aa4"
+        ],
+        [
+            "ui\/modules\/apps\/tabbyzTachoWTemp\/app.png",
+            "71b717abb835d491"
+        ],
+        [
+            "ui\/modules\/apps\/tabbyzTachoWTemp\/svg-script.js",
+            "cd1691ffa426601d"
+        ],
+        [
+            "ui\/modules\/apps\/tabbyzTachoWTemp\/app.json",
+            "49e1037b264b7623"
+        ],
+        [
+            "ui\/modules\/apps\/tabbyzTachoWTemp\/tacho.svg",
+            "2785b9d8d584282f"
+        ]
+    ]
+}
